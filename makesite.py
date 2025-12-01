@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # The MIT License (MIT)
 #
@@ -176,7 +176,7 @@ def main():
     params = {
         'base_path': '',
         'subtitle': 'Lorem Ipsum',
-        'author': 'Admin',
+        'author': 'Pulpways',
         'site_url': 'http://localhost:8000',
         'current_year': datetime.datetime.now().year
     }
@@ -207,7 +207,7 @@ def main():
     blog_posts = make_pages('content/blog/*.md',
                             '_site/blog/{{ slug }}/index.html',
                             post_layout, blog='blog', **params)
-    news_posts = make_pages('content/news/*.html',
+    news_posts = make_pages('content/news/*.md',
                             '_site/news/{{ slug }}/index.html',
                             post_layout, blog='news', **params)
 
