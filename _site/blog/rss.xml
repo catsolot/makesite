@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+<title>Blog</title>
+<link>http://localhost:8000/</link>
+<description>Grow with Technology</description>
+
+<item>
+<title><i>Vagabond</i> Timed Thoughts</title>
+<link>http://localhost:8000/blog/vagabond/</link>
+<description>
+<![CDATA[
+<p>
+Yesterday I watched the movie Vagabond directed by Agnès Varda. In an attempt to think deeply about the content I consume, I set out a&nbsp;<a href="http://localhost:8000/blog/vagabond/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/vagabond/">Read More</a></p>
+]]>
+</description>
+<pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+
+
+</channel>
+</rss>
