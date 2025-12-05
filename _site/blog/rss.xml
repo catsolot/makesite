@@ -7,7 +7,20 @@
 <description>Grow with Technology</description>
 
 <item>
-<title><i>Vagabond</i> Timed Thoughts</title>
+<title>Tracking Media</title>
+<link>http://localhost:8000/blog/media-tracking/</link>
+<description>
+<![CDATA[
+<p>
+Today I am drowning in a flood of Spotify Wrapped posts. Top 5 artists and favorite genres and listening ages fill my feeds. I can't&nbsp;<a href="http://localhost:8000/blog/media-tracking/">...</a>
+</p>
+<p><a href="http://localhost:8000/blog/media-tracking/">Read More</a></p>
+]]>
+</description>
+<pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Vagabond Timed Thoughts</title>
 <link>http://localhost:8000/blog/vagabond/</link>
 <description>
 <![CDATA[
