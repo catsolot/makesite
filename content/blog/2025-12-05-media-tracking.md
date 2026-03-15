@@ -1,4 +1,5 @@
 <!-- title: Tracking Media-->
+<!-- author: Milo Craun -->
 
 Today I am drowning in a flood of Spotify Wrapped posts.
 Top 5 artists and favorite genres and listening ages fill my feeds.
